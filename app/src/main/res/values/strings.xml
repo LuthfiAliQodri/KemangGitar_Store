@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kemang Gitar Store</string>
+    <string name="info_name">Nama Guitar</string>
+    <string name="description">Desc</string>
+    <string name="price">Price</string>
+    <string name="about">About</string>
+    <string name="name">Luthfi Ali Qodri</string>
+    <string name="gmail">jokoa941@gmail.com</string>
+    <string name="brand_name">Nama Guitar</string>
+</resources>
